@@ -2,10 +2,16 @@
   "files": {
     "index.js": [
       {
+        "id": "b2a6850a-a332-4a10-a783-2836ff321f79",
+        "line": 1,
+        "version": 2040,
+        "index": 0
+      },
+      {
         "id": "bc3a8ff0-c242-4e64-8eed-249a5edae4c2",
-        "line": 2,
-        "version": 1005,
-        "index": 40
+        "line": 5,
+        "version": 2040,
+        "index": 106
       }
     ]
   }
